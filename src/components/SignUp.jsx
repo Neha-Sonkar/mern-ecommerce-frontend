@@ -1,5 +1,5 @@
 import React, { useContext, useState } from 'react'
-import './Components.css'
+import './components.css'
 import { Link, useNavigate } from 'react-router-dom'
 import API from '../api'
 import Context from '../Context/Context'
