@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
-import './Components.css'
+import './components.css'
 import API from '../api.jsx'
 const ChangePassword = () => {
     const [oldpassword, setOldPassword] = useState("")
